@@ -1,4 +1,4 @@
-- [Text editing](Text-editing)
+[Text editing](Text-editing)
 
 
 
